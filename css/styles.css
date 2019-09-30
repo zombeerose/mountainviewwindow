@@ -1,3 +1,18 @@
 h1 {
-  color: blue;
+
+}
+.section-title-group {
+    margin-bottom: 60px;
+}
+.section-heading {
+    margin-top: 0px;
+    margin-bottom: 16px;
+}
+.section-heading.centered {
+    color: rgb(103, 103, 112);
+    font-size: 30px;
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
 }
