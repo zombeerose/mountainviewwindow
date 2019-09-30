@@ -135,3 +135,16 @@ p {
     padding-top: 35px;
     padding-bottom: 35px;
 }
+.footer.center {
+/*     border-top-style: solid; */
+/*     border-top-width: 1px; */
+/*     border-top-color: rgb(219, 219, 219); */
+/*     background-color: rgb(56, 56, 56); */
+    text-align: center;
+}
+.footer-text {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(158, 158, 158);
+    font-size: 16px;
+}
