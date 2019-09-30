@@ -14,7 +14,7 @@ summary {
   display: block;
 }
 body {
-    background-color: rgb(237, 239, 242);
+/*     background-color: rgb(237, 239, 242); */
     font-family: Jura, "Open Sans", sans-serif;
     color: rgb(106, 133, 156);
     font-size: 16px;
@@ -65,6 +65,7 @@ p {
     border-bottom-width: 4px;
     border-bottom-color: rgb(105, 185, 255);
     /*background-image: linear-gradient(rgba(46, 157, 255, 0.5), rgba(46, 157, 255, 0.22)), url();*/
+    background-color: rgb(237, 239, 242);
     background-size: auto, cover;
     text-align: center;
     background-position: 0% 0%, 50% 50%;
