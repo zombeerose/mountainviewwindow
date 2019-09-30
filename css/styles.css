@@ -1,3 +1,18 @@
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section,
+summary {
+  display: block;
+}
 body {
     background-color: rgb(237, 239, 242);
     font-family: Jura, "Open Sans", sans-serif;
