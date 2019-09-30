@@ -6,7 +6,8 @@ body {
     line-height: 20px;
 }
 h1 {
-
+    margin-top: 0px;
+    text-transform: uppercase;
 }
 h3 {
     margin-top: 0px;
@@ -18,12 +19,49 @@ h3 {
     letter-spacing: 7px;
     text-transform: uppercase;
 }
+.navigation-bar {
+    background-color: white;
+}
+.w-nav {
+    position: relative;
+    background: #dddddd;
+    z-index: 1000;
+}
 p {
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 14px;
     line-height: 25px;
     font-weight: 300;
+}
+.hero-heading {
+    margin-bottom: 30px;
+    color: white;
+    font-size: 60px;
+    line-height: 60px;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.hero-section.centered {
+    padding-top: 195px;
+    padding-bottom: 195px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: rgb(105, 185, 255);
+    /*background-image: linear-gradient(rgba(46, 157, 255, 0.5), rgba(46, 157, 255, 0.22)), url();*/
+    background-size: auto, cover;
+    text-align: center;
+    background-position: 0% 0%, 50% 50%;
+}
+.hero-subheading {
+    margin-bottom: 40px;
+    color: rgb(46, 157, 255);
+    font-size: 25px;
+    line-height: 25px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    text-transform: uppercase;
 }
 .w-container {
     margin-left: auto;
@@ -76,4 +114,8 @@ p {
     border-color: rgb(220, 235, 247);
     border-radius: 5px;
     text-align: center;
+}
+.footer {
+    padding-top: 35px;
+    padding-bottom: 35px;
 }
