@@ -148,3 +148,6 @@ p {
     color: rgb(158, 158, 158);
     font-size: 16px;
 }
+.grid-image {
+    max-height: 600px;
+}
