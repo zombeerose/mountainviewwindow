@@ -11,19 +11,22 @@ menu,
 nav,
 section,
 summary {
-  display: block;
+    display: block;
 }
+
 body {
-/*     background-color: rgb(237, 239, 242); */
+    /*     background-color: rgb(237, 239, 242); */
     font-family: Jura, "Open Sans", sans-serif;
     color: rgb(106, 133, 156);
     font-size: 16px;
     line-height: 20px;
 }
+
 h1 {
     margin-top: 0px;
     text-transform: uppercase;
 }
+
 h3 {
     margin-top: 0px;
     margin-bottom: 0px;
@@ -34,14 +37,17 @@ h3 {
     letter-spacing: 7px;
     text-transform: uppercase;
 }
+
 .navigation-bar {
     background-color: white;
 }
+
 .w-nav {
     position: relative;
     background: #dddddd;
     z-index: 1000;
 }
+
 p {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -49,15 +55,17 @@ p {
     line-height: 25px;
     font-weight: 300;
 }
+
 .hero-heading {
     margin-bottom: 30px;
-/*     color: white; */
+    /*     color: white; */
     font-size: 60px;
     line-height: 60px;
     font-weight: 300;
     letter-spacing: 4px;
     text-transform: uppercase;
 }
+
 .hero-section.centered {
     padding-top: 195px;
     padding-bottom: 195px;
@@ -70,6 +78,7 @@ p {
     text-align: center;
     background-position: 0% 0%, 50% 50%;
 }
+
 .hero-subheading {
     margin-bottom: 40px;
     color: rgb(46, 157, 255);
@@ -79,11 +88,13 @@ p {
     letter-spacing: 3px;
     text-transform: uppercase;
 }
+
 .w-container {
     margin-left: auto;
     margin-right: auto;
     max-width: 940px;
 }
+
 .section {
     position: relative;
     padding-top: 80px;
@@ -93,13 +104,16 @@ p {
     background-color: white;
     text-align: center;
 }
+
 .section-title-group {
     margin-bottom: 60px;
 }
+
 .section-heading {
     margin-top: 0px;
     margin-bottom: 16px;
 }
+
 .section-heading.centered {
     color: rgb(103, 103, 112);
     font-size: 30px;
@@ -108,13 +122,16 @@ p {
     letter-spacing: 5px;
     text-transform: uppercase;
 }
+
 .w-container .w-row {
     margin-left: -10px;
     margin-right: -10px;
 }
+
 .w-col-4 {
     width: 33.33333333%;
 }
+
 .w-col {
     position: relative;
     float: left;
@@ -123,6 +140,7 @@ p {
     padding-left: 10px;
     padding-right: 10px;
 }
+
 .white-box {
     padding: 15px;
     border-style: solid;
@@ -131,23 +149,27 @@ p {
     border-radius: 5px;
     text-align: center;
 }
+
 .footer {
     padding-top: 35px;
     padding-bottom: 35px;
 }
+
 .footer.center {
-/*     border-top-style: solid; */
-/*     border-top-width: 1px; */
-/*     border-top-color: rgb(219, 219, 219); */
-/*     background-color: rgb(56, 56, 56); */
+    /*     border-top-style: solid; */
+    /*     border-top-width: 1px; */
+    /*     border-top-color: rgb(219, 219, 219); */
+    /*     background-color: rgb(56, 56, 56); */
     text-align: center;
 }
+
 .footer-text {
     margin-top: 5px;
     margin-bottom: 5px;
     color: rgb(158, 158, 158);
     font-size: 16px;
 }
+
 .grid-image {
     max-height: 600px;
 }
