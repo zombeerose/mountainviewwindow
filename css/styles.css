@@ -174,8 +174,8 @@ th {
 }
 
 .hero-section.centered {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     border-bottom-style: solid;
     border-bottom-width: 4px;
     border-bottom-color: rgb(105, 185, 255);
